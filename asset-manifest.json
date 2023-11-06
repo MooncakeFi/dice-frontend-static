@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b2dad64.css",
-    "main.js": "/static/js/main.de772211.js",
+    "main.css": "/static/css/main.4e5cefa0.css",
+    "main.js": "/static/js/main.1f5b001d.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -211,7 +211,6 @@
     "static/media/Github.svg": "/static/media/Github.552e6f28b535562fb594.svg",
     "static/media/Calendar.svg": "/static/media/Calendar.42009cff1a10b2511fca.svg",
     "static/media/BentoMenu.svg": "/static/media/BentoMenu.0f7f463a4c163f26283a.svg",
-    "static/media/discord.svg": "/static/media/discord.debecff179b518498338968954628ed8.svg",
     "static/media/DFYN.svg": "/static/media/DFYN.c1458f8ab117a3c7258a.svg",
     "static/media/Dfyn.svg": "/static/media/Dfyn.aca462d426f86756c127.svg",
     "static/media/Loans.svg": "/static/media/Loans.b8857870daaf536e4bd5.svg",
@@ -275,8 +274,8 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.9b2dad64.css.map": "/static/css/main.9b2dad64.css.map",
-    "main.de772211.js.map": "/static/js/main.de772211.js.map",
+    "main.4e5cefa0.css.map": "/static/css/main.4e5cefa0.css.map",
+    "main.1f5b001d.js.map": "/static/js/main.1f5b001d.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
     "8660.88a71830.chunk.js.map": "/static/js/8660.88a71830.chunk.js.map",
     "9473.9d2254fe.chunk.js.map": "/static/js/9473.9d2254fe.chunk.js.map",
@@ -321,7 +320,7 @@
     "1611.b07663f7.chunk.js.map": "/static/js/1611.b07663f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b2dad64.css",
-    "static/js/main.de772211.js"
+    "static/css/main.4e5cefa0.css",
+    "static/js/main.1f5b001d.js"
   ]
 }
