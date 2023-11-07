@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.211eb1db.css",
-    "main.js": "/static/js/main.a2f6ff52.js",
+    "main.css": "/static/css/main.e2bd58bd.css",
+    "main.js": "/static/js/main.c17f2472.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -175,6 +175,7 @@
     "static/media/PickleFinance.svg": "/static/media/PickleFinance.56d317ceda3ffce3c2f3.svg",
     "static/media/gameIcon.png": "/static/media/gameIcon.f471ba09577821570627.png",
     "static/media/FORWARD.svg": "/static/media/FORWARD.6e5deca49c74f7777f89.svg",
+    "static/media/dice-sound.mp3": "/static/media/dice-sound.a4c196e58839debc59b8.mp3",
     "static/media/HOPE.svg": "/static/media/HOPE.d3459a6f2550ef09b4d7.svg",
     "static/media/COSMIC.svg": "/static/media/COSMIC.54d5110de935f14eeab8.svg",
     "static/media/CosmicFinance.svg": "/static/media/CosmicFinance.94a05c1984a951e38a28.svg",
@@ -211,6 +212,7 @@
     "static/media/Github.svg": "/static/media/Github.552e6f28b535562fb594.svg",
     "static/media/Calendar.svg": "/static/media/Calendar.42009cff1a10b2511fca.svg",
     "static/media/BentoMenu.svg": "/static/media/BentoMenu.0f7f463a4c163f26283a.svg",
+    "static/media/discord.svg": "/static/media/discord.debecff179b518498338968954628ed8.svg",
     "static/media/DFYN.svg": "/static/media/DFYN.c1458f8ab117a3c7258a.svg",
     "static/media/Dfyn.svg": "/static/media/Dfyn.aca462d426f86756c127.svg",
     "static/media/Loans.svg": "/static/media/Loans.b8857870daaf536e4bd5.svg",
@@ -226,6 +228,7 @@
     "static/media/Settings.svg": "/static/media/Settings.f68d35c5d6c64bf8c8be.svg",
     "static/media/Sync.svg": "/static/media/Sync.e6fce33428ababaff6c6.svg",
     "static/media/ProposalPending.svg": "/static/media/ProposalPending.e2fa4fd2119ad430c53c.svg",
+    "static/media/twitter-logo.svg": "/static/media/twitter-logo.6c453e0fe4189ad07aed764aaade8962.svg",
     "static/media/ColoredSuccess.svg": "/static/media/ColoredSuccess.04b667b70da810edacfe.svg",
     "static/media/Wallet.svg": "/static/media/Wallet.671b6fc9828f2998e8e4.svg",
     "static/media/Pending.svg": "/static/media/Pending.327a4ed063c9cc8e6fae.svg",
@@ -274,8 +277,8 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.211eb1db.css.map": "/static/css/main.211eb1db.css.map",
-    "main.a2f6ff52.js.map": "/static/js/main.a2f6ff52.js.map",
+    "main.e2bd58bd.css.map": "/static/css/main.e2bd58bd.css.map",
+    "main.c17f2472.js.map": "/static/js/main.c17f2472.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
     "8660.88a71830.chunk.js.map": "/static/js/8660.88a71830.chunk.js.map",
     "9473.9d2254fe.chunk.js.map": "/static/js/9473.9d2254fe.chunk.js.map",
@@ -320,7 +323,7 @@
     "1611.b07663f7.chunk.js.map": "/static/js/1611.b07663f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.211eb1db.css",
-    "static/js/main.a2f6ff52.js"
+    "static/css/main.e2bd58bd.css",
+    "static/js/main.c17f2472.js"
   ]
 }
